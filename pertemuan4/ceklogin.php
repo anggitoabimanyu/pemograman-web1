@@ -4,7 +4,7 @@ if (isset($_POST['tombolsubmit'])){
     $username=$_POST['username'];
     $password=$_POST['password'];
      
-    if ($username=="gigi" && $password=="123"){
+    if ($username=="hadid" && $password=="1234"){
         echo"Sukses";
     }
     else{
