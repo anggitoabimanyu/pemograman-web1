@@ -10,6 +10,6 @@ if (isset($_POST['registerbtn'])){
     echo "<br>" .$email;
     echo "<br> ".$namaDepan." ".$namaBelakang;
 }
-
+ 
 
 ?>
